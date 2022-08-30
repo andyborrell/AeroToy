@@ -1,0 +1,16 @@
+Copyright (c) 2022 Andy Borrell
+
+This software is provided 'as-is', without any express or implied
+warranty. In no event will the authors be held liable for any damages
+arising from the use of this software.
+
+Permission is granted to anyone to use this software, but not its source code,
+for any purpose, including commercial applications, and to redistribute it
+freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not 
+   claim that you wrote the original software.
+2. You will not reverse engineer this software
+3. This license must be included with redistribution of this software
+4. You may not charge for distribution or use of this software
+
